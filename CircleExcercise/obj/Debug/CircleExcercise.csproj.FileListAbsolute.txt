@@ -1,0 +1,6 @@
+C:\Systems\Katas\C#\CircleExcercise\CircleExcercise\bin\Debug\CircleExcercise.dll
+C:\Systems\Katas\C#\CircleExcercise\CircleExcercise\bin\Debug\CircleExcercise.pdb
+C:\Systems\Katas\C#\CircleExcercise\CircleExcercise\obj\Debug\CircleExcercise.csprojResolveAssemblyReference.cache
+C:\Systems\Katas\C#\CircleExcercise\CircleExcercise\obj\Debug\CircleExcercise.csproj.CoreCompileInputs.cache
+C:\Systems\Katas\C#\CircleExcercise\CircleExcercise\obj\Debug\CircleExcercise.dll
+C:\Systems\Katas\C#\CircleExcercise\CircleExcercise\obj\Debug\CircleExcercise.pdb
